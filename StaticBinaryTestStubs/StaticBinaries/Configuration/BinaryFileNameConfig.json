@@ -1,0 +1,10 @@
+{
+	"CartoonIntroTrig": "static_binaries/NonPublicImages/ImageTest.svg",
+	"CartoonIntroGIF": "static_binaries/NonPublicImages/ImageTest.svg",
+	"IntroToFrequencyVideo": "static_binaries/VideoExpln/TestMP4file.mp4",
+	"LandingPageLogo": "static_binaries/NonPublicImages/ImageTest.svg",
+	"Legal_TermsCond": "static_binaries/LegalDocs/TestPDFfile.pdf",
+	"Legal_Privacy": "static_binaries/LegalDocs/TestPDFfile.pdf",
+	"MusicSummaryVideo": "static_binaries/VideoExpln/TestMP4file.mp4",
+	"TrigReviewIntroAudio": "static_binaries/AudioExpln/AudioTest.mp3"
+}
