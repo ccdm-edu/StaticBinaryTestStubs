@@ -1,4 +1,6 @@
 {
+	"GoogleAnalID": "NoStreamID",
+	"CompanyName": "I Luv Math",
 	"CartoonIntroTrig": "static_binaries/NonPublicImages/ImageTest.svg",
 	"CartoonIntroGIF": "static_binaries/NonPublicImages/ImageTest.svg",
 	"DynamicTrig1Seg0": "../../static/static_binaries/AudioExpln/AudioTest.mp3",
