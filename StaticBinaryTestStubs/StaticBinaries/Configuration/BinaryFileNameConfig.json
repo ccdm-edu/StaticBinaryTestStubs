@@ -21,6 +21,7 @@
 	"LandingPageLogo": "static_binaries/NonPublicImages/ImageTest.svg",
 	"LandingPageSeg0" : "../../static/static_binaries/AudioExpln/AudioTest.mp3",
 	"LandingPageSeg1" : "../../static/static_binaries/AudioExpln/AudioTest.mp3",
+	"LandingPageSeg1mobile": "../../static/static_binaries/AudioExpln/AudioTest.mp3",
 	"Legal_TermsCond": "static_binaries/LegalDocs/TestPDFfile.pdf",
 	"Legal_Privacy": "static_binaries/LegalDocs/TestPDFfile.pdf",
 	"MusicNotesTrigSeg0": "../../static/static_binaries/AudioExpln/AudioTest.mp3",
